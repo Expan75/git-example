@@ -14,4 +14,5 @@
 # GIT FLOW
 # 1. add <filename> (only required if new files)
 # 2. commit <filename> -m "my message"
-# 3. 
+# 3. git push --set-upstream origin main (shorthand: git push -u origin main)
+# repeat, and git push only!
